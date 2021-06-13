@@ -1,0 +1,21 @@
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Debug\UML.Properties.Resources.resources
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Debug\UML.csproj.GenerateResource.Cache
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\bin\Debug\UML.exe
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\bin\Debug\UML.pdb
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Debug\UML.exe
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Debug\UML.pdb
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Debug\UML.exe
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Debug\UML.pdb
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Debug\ResolveAssemblyReference.cache
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Debug\UML.csproj.GenerateResource.Cache
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\bin\Debug\UML.exe
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\bin\Debug\UML.pdb
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Debug\Ui.Properties.Resources.resources
+E:\NewProjSpace\ToolWindows\UML\obj\Debug\UML.exe
+E:\NewProjSpace\ToolWindows\UML\obj\Debug\UML.pdb
+E:\NewProjSpace\ToolWindows\UML\obj\Debug\ResolveAssemblyReference.cache
+E:\NewProjSpace\ToolWindows\UML\obj\Debug\Ui.Properties.Resources.resources
+E:\NewProjSpace\ToolWindows\UML\obj\Debug\UML.csproj.GenerateResource.Cache
+E:\NewProjSpace\ToolWindows\UML\bin\Debug\UML.exe
+E:\NewProjSpace\ToolWindows\UML\bin\Debug\UML.pdb

@@ -1,0 +1,16 @@
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\bin\Release\UML.exe
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\bin\Release\UML.pdb
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Release\UML.NewClassForm.resources
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Release\UML.UMLForm.resources
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Release\UML.Properties.Resources.resources
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Release\UML.csproj.GenerateResource.Cache
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Release\UML.exe
+C:\Users\Kavosh\AppData\Local\Temporary Projects\UML\obj\Release\UML.pdb
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Release\ResolveAssemblyReference.cache
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Release\UML.Properties.Resources.resources
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Release\UML.csproj.GenerateResource.Cache
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\bin\Release\UML.exe
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\bin\Release\UML.pdb
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Release\UML.exe
+E:\NewProjSpace\Bazaryabi\Bazaryabi\Test\UML\UML\obj\Release\UML.pdb
